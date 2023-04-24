@@ -1,0 +1,40 @@
+body{
+    background-color: #E5D1FA ;
+    
+}
+
+#heading{
+    font-family: cursive;
+    background-color:#dff8d9;
+    color: white;
+    border-radius: 25px;
+    text-shadow: -1px 6px 4px rgb(0, 0, 0);
+    font-size: 55px;
+    box-shadow: 0px 0px 20px #bcfaad;
+    
+}
+
+
+.login_div1 
+	{
+		background:#E3DFFD;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        color: black;
+        box-shadow: 10px 25px 10px #b1a6f8;
+        
+
+	}
+
+
+
+.form-control{
+    color: black;
+    background-color: #ECF2FF;
+    font-size: 20px;
+    border-radius: 5px; border-color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 20px rgb(207, 135, 247);
+    width:30%;
+
+}
